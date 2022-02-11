@@ -2,7 +2,7 @@
 // https://docs.unlock-protocol.com/unlock/developers/paywall/configuring-checkout
 export const paywallConfig = {
   locks: {
-    '0x889559AD98a3438bA6D471491A8Cd9c7C4c640b6': {
+    '0x3047d11c462fE63688bBd417a46Bf8Fa19ff3294': {
       network: 4,
     },
   },
@@ -12,7 +12,7 @@ export const paywallConfig = {
 // Enter RPC providers
 export const providers = {
   1: '',
-  4: 'https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161',
+  4: 'https://rinkeby.infura.io/v3/3aff00ce0f72420bb670eb204fddd083',
   100: '',
   10: '',
   // ...
