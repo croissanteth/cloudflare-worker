@@ -7,7 +7,6 @@ export const paywallConfig = {
     },
   },
   pessimistic: true,
-  icon: 'https://bakery.fyi/wp-content/uploads/2022/01/croissantt.webp',
 }
 
 // Enter RPC providers
